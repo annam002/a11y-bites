@@ -1,7 +1,7 @@
-public/_site
-public/.sass-cache
-public/.jekyll-cache
-public/.jekyll-metadata
-public/vendor
-public/Gemfile.lock
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+Gemfile.lock
 .idea
